@@ -1,1 +1,5 @@
 steam_autocloud.vdf
+
+# Store temp blueprints. Shouldn't be in repo
+/Cache
+
