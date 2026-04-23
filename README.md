@@ -1,5 +1,5 @@
 # Shapes2
-My Blueprints for Shapes 2
+My Blueprints for Shapes 2 (pre 1.0 release)
 
 ## Install
 
