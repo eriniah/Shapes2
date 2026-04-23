@@ -7,7 +7,7 @@ My Blueprints for Shapes 2
 Clone into: `~/AppData/LocalLow/tobspr Games/shapez 2/blueprints`
 
 ### Linux
-TODO
+Clone into: `~/.config/unity3d/tobspr Games/shapez 2/blueprints`
 
 # Labels
 
